@@ -1,10 +1,6 @@
 ## Airline Ticketing Kiosk App
 ### Description
-For this project, we created an application which allows customers to perform any necessary transactions related to their flight tickets. 
-
-These transactions include purchasing, cancelling, and checking-in tickets.
-
-We created a backend Java application and a frontend written in HTML/CSS/JavaScript
+For this project, we created an application which allows customers to perform any necessary transactions related to their flight tickets. These transactions include purchasing, cancelling, and checking-in tickets. We created a backend Java application and a frontend written in HTML/CSS/JavaScript
 ### Minimum Requirements
 1. Proper use of OOP principles
 2. Output is presented to user on a web page, and input is accepted from a web form
