@@ -17,4 +17,6 @@ For this project, we created an application which allows customers to perform an
 - Git & Github for version control
 - MariaDB deployed on AWS RDS for data persistence
 - Hibernate to abstract away JDBC code
-** Final Project exists within Project-Plan **
+
+### Note:
+*Final Project is stored within Project-Plan*
